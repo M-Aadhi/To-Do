@@ -23,7 +23,7 @@ To run this project, you need to have Java installed on your system.
 2. **Navigate to the project directory:**
 
    ```bash
-   cd your-repo-name
+   cd To-Do
 
 3. **Compile all the java file:**
 
